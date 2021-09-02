@@ -37,12 +37,6 @@ Project 3                                          Bootcamp Final Project
 _______________________________________________________________________________
 ### Introduction: ###
 
-Ladies and gentlemen, in other words, johnny and my dear colleagues,
-Welcome to an evening with Spacy, Displacy and the crazy words token,
-with their colleagues like NTLK, in the occasion of Natural Language
-Processing. Well, that is not our whole topic tonight, anyway. It is
-much wider & deeper.
-
 The language spoken at a crime site by criminal is a thumb print left
 behind by the criminal, though it is not as conclusive as a fingerprint
 or even like DNA codes. The words and the way the NL used by the
